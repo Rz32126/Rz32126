@@ -1,10 +1,9 @@
 <h1 align="center"> <img src="https://i.ibb.co/4gWRFDGL/Screenshot-2025-02-06-014057.png" height="120" width="full" alt="javascript logo"  />
 </h1>
- <img src="https://i.ibb.co/4gWRFDGL/Screenshot-2025-02-06-014057.png" height="120" width="full" alt="javascript logo"  />
 
 ###
 
-<p align="left">My name is Rifat Zahan and I'm a Web Developer</p>
+<p align="center">My name is Rifat Zahan and I'm a Web Developer</p>
 
 ###
 
@@ -45,3 +44,5 @@
 </div>
 
 ###
+
+<h1>Find me</h1>
