@@ -7,7 +7,7 @@
 
 ###
 
-<p align="center">My name is Rifat Zahan and I'm a Web Developer</p>
+<p align="left">My name is Rifat Zahan and I'm a Web Developer</p>
 
 ###
 
@@ -49,4 +49,5 @@
 
 ###
 
-<h1>Find me</h1>
+###
+<h2>Find me</h2>
