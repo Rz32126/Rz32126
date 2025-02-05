@@ -1,4 +1,8 @@
 <h1 align="center"> <img src="https://i.ibb.co/4gWRFDGL/Screenshot-2025-02-06-014057.png" height="120" width="full" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
 </h1>
 
 ###
