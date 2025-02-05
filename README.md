@@ -1,5 +1,5 @@
 <h1 align="center">Its really nice to be a good Web Developer.</h1>
- <img src="https://i.ibb.co/4gWRFDGL/Screenshot-2025-02-06-014057.png" height="40" width="11/12" alt="javascript logo"  />
+ <img src="https://i.ibb.co/4gWRFDGL/Screenshot-2025-02-06-014057.png" height="40" width="full" alt="javascript logo"  />
 
 ###
 
