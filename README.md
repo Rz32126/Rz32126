@@ -52,7 +52,8 @@
 ###
 <h2>Find me</h2>
 
-<h1>Facebook: https://www.facebook.com/profile.php?id=61559893346989&mibextid=rS40aB7S9Ucbxw6v
+<p>Facebook: https://www.facebook.com/profile.php?id=61559893346989&mibextid=rS40aB7S9Ucbxw6v
 
-</h1>
+</p>
+<p>LinkedIn: https://www.linkedin.com/in/rifat-zahan-160937247?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app </p>
 ###
